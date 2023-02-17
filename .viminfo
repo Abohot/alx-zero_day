@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676622528,,"wq"
+|2,0,1676625221,,"wq"
 :Wq
 |2,0,1676544455,,"Wq"
 :WQ
@@ -36,36 +36,58 @@
 # Registers:
 
 # File marks:
-'0  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
-|4,48,2,23,1676622528,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
-'1  2  21  ~/alx-low_level_programming/0x00-hello_world/1-compiler
-|4,49,2,21,1676622442,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
-'2  2  6  ~/alx-low_level_programming/0x00-hello_world/1-compiler
-|4,50,2,6,1676622159,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+'0  20  3  ~/Betty/betty
+|4,48,20,3,1676625221,"~/Betty/betty"
+'1  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,49,2,23,1676622528,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+'2  2  21  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,50,2,21,1676622442,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 '3  2  6  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,51,2,6,1676622159,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
-'4  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
-|4,52,2,23,1676555050,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+'4  2  6  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,52,2,6,1676622159,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 '5  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,53,2,23,1676555050,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 '6  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,54,2,23,1676555050,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 '7  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,55,2,23,1676555050,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
-'8  12  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
-|4,56,12,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+'8  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,56,2,23,1676555050,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 '9  12  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,57,12,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 
 # Jumplist (newest first):
+-'  20  3  ~/Betty/betty
+|4,39,20,3,1676625221,"~/Betty/betty"
+-'  1  0  ~/Betty/betty
+|4,39,1,0,1676625190,"~/Betty/betty"
+-'  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,2,23,1676622528,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,2,23,1676622528,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  2  21  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,2,21,1676622442,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  2  21  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,2,21,1676622442,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  2  6  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,2,6,1676622159,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  2  6  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,2,6,1676622159,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,2,23,1676555050,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  2  23  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,2,23,1676555050,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  12  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,12,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  13  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,13,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  12  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,12,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  13  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,13,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  13  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,13,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  12  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,12,0,1676554891,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  13  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
@@ -79,7 +101,13 @@
 -'  2  28  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,2,28,1676554191,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  2  28  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,2,28,1676554191,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  2  28  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,2,28,1676554080,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  2  28  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,2,28,1676554080,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  2  28  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,2,28,1676553703,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  2  28  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,2,28,1676553703,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
@@ -96,48 +124,20 @@
 |4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
 |4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/1-compiler
+|4,39,1,0,1676553578,"~/alx-low_level_programming/0x00-hello_world/1-compiler"
 -'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
 |4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
 -'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
@@ -260,6 +260,13 @@
 |4,39,2,17,1676553415,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
 
 # History of marks within files (newest to oldest):
+
+> ~/Betty/betty
+	*	1676625220	0
+	"	20	3
+	^	20	4
+	.	20	3
+	+	20	3
 
 > ~/alx-low_level_programming/0x00-hello_world/1-compiler
 	*	1676622525	0
